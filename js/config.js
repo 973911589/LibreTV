@@ -23,7 +23,7 @@ const SITE_CONFIG = {
 // API站点配置
 const API_SITES = {
     testSource: {
-        api: 'https://wolongzyw.com/api.php/provide/vod/',
+        api: 'https://telegra.ph/APIs-08-12',
         name: '卧龙',
         adult: true
     }
