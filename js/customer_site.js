@@ -1,7 +1,7 @@
 const CUSTOMER_SITES = {
-    qiqi: {
-        api: 'https://telegra.ph/APIs-08-12',
-        name: '七七资源',
+    wolong: {
+        api: 'https://wolongzyw.com/api.php/provide/vod/',
+        name: '卧龙资源',
     }
 };
 
